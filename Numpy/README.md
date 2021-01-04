@@ -49,7 +49,7 @@ NumPy API is used widely in Pandas, SciPy, Matplotlib, scikit-learn, scikit-imag
 	- repeat (repeating copies)
 	- copy (copying)
 - 2. Solving a basic problem
-<b><center>Create a Numpy matrix like this</center><br>
+<b><center>Create a Numpy matrix like this</center></b><br>
 
 <table>
     <tr>
