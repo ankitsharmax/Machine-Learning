@@ -34,7 +34,7 @@ NumPy API is used widely in Pandas, SciPy, Matplotlib, scikit-learn, scikit-imag
 	- random.randint
 	- random.random_sample
 	- identity
-	- repeat (copying)
+	- repeat (repeating copies)
 	- copy (copying)
 	
 - 3. Difference between rand and randn
@@ -42,7 +42,13 @@ NumPy API is used widely in Pandas, SciPy, Matplotlib, scikit-learn, scikit-imag
 	- ```np.random.rand``` is for Uniform distribution (in the half-open interval ```[0.0, 1.0)```)
 	- ```np.random.randn``` is for Standard Normal (aka. Gaussian) distribution (mean 0 and variance 1)
 	
-- 4. Solving a basic problem
+### Day 3 Numpy:
+- 1. Remaining differennt types of matrix
+	- identity
+	- eye
+	- repeat (repeating copies)
+	- copy (copying)
+- 2. Solving a basic problem
 <b><center>Create a Numpy matrix like this</center><br>
 
 <table>
@@ -82,3 +88,25 @@ NumPy API is used widely in Pandas, SciPy, Matplotlib, scikit-learn, scikit-imag
         <td>1</td>
     </tr>
 </table>
+
+- 3. Mathematics with numpy
+	- Basics arithematic operations with <b>broadcasting</b>
+		- (+, -, *, **, /, %)
+		- sin, cos, std (standard Deviation), mean, median, var (variance)
+	- vander Function (will explain in later modules)
+	- Linear Algebra
+		- Matrix multiplicaton ```np.matmul()```
+		- Determinant
+			- Remaining belows topics 4th day of numpy 
+		- Rank of matrix
+		- Eigen Value
+		- Inverse of a matrix
+		- Trace
+		- Singular Vector Decomposition
+		- Matrix Norm
+		- Matrix Power
+		- Dot product of array
+		- Dor product of vector
+		- Inner product
+		- Outer product
+	
