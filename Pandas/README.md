@@ -27,6 +27,8 @@
 
 NOTE: More features and ability of pandas we'll look in the upcoming modules.
 
+## Contents:
+
 ### Day 1 Pandas
 - Intro to Pandas
 - Intro to DataFrame
@@ -42,3 +44,20 @@ NOTE: More features and ability of pandas we'll look in the upcoming modules.
 	- max
 	- std
 - describe method for all the above statistics with percentile
+
+### Day 2 Pandas
+- Basic Data Analysis Exercise on custom DataFrame
+- Basic operations using Pandas
+	- Index Manipulation
+		- Setting column to index
+		- Resetting to default
+- Small Exercise related to index manipulation
+- Different ways of Creating DataFrame
+	- Python Dictionary
+	- Using Excel
+	- Using CSV
+	- From list of tuples
+	- From list of dictionaries
+- Saving DataFrame
+	- to CSV
+	- to Excel
