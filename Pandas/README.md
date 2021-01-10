@@ -61,3 +61,16 @@ NOTE: More features and ability of pandas we'll look in the upcoming modules.
 - Saving DataFrame
 	- to CSV
 	- to Excel
+	
+### Day 3 Pandas
+- Different ways of Creating DataFrame (cont.)
+- Miscellaneous (Convert txt to CSV)
+- Working with columns
+	- Changing column names
+	- Rearranging columns
+	- Dropping columns
+- Handling Missing Data
+	- fillna
+	- interpolate
+	- dropna
+	- replace
