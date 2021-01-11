@@ -62,7 +62,7 @@ NOTE: More features and ability of pandas we'll look in the upcoming modules.
 	- to CSV
 	- to Excel
 	
-### Day 3 Pandas
+### Day 3-4 Pandas
 - Different ways of Creating DataFrame (cont.)
 - Miscellaneous (Convert txt to CSV)
 - Working with columns
@@ -74,3 +74,4 @@ NOTE: More features and ability of pandas we'll look in the upcoming modules.
 	- interpolate
 	- dropna
 	- replace
+	- Adding the missing dates
