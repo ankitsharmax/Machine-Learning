@@ -75,3 +75,7 @@ NOTE: More features and ability of pandas we'll look in the upcoming modules.
 	- dropna
 	- replace
 	- Adding the missing dates
+	
+### Day 5 Pandas
+- Handling Missing Data(Cont.)
+- Replacing Values with some other values
